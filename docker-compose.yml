@@ -1,0 +1,9 @@
+version: "2.1"
+services:
+  kirby3_server:
+    build: .
+    restart: on-failure:5
+    ports:
+      - "8098:80"
+    volumes:
+      - ./public:/var/www/html
