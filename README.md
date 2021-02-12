@@ -46,11 +46,15 @@ Clone **your** Kirby project or some of the starter projects inside the `./publi
 
 #### Sample with the Kirby plainkit
 
+⚠️ Important! Your kirb files **must** be cloned inside a folder named: `./public`
+
 ```
 $ git clone https://github.com/getkirby/plainkit.git public
 ```
 
 ### 5) Build the Dockerfile image and run
+
+⚠️ Make sure you have your Docker up and running!
 
 Download, build the [Dockerfile](Dockerfile) image and start yout project.
 
