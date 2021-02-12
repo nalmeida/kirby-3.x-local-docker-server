@@ -59,7 +59,7 @@ $ git clone https://github.com/getkirby/plainkit.git public
 Download, build the [Dockerfile](Dockerfile) image and start yout project.
 
 ```
-$ docker-compose up --build
+$ docker-compose up
 ```
 
 ### 6) Test your site
