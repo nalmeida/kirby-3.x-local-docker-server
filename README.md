@@ -62,7 +62,7 @@ $ docker-compose up --build
 
 Open your site in the browser and start working.
 
-* Open http://localhost:8089
+* Open http://localhost:8098
 * Change your files inside the `./public` folder.
 
 ## Working with the docker docker-compose cli
