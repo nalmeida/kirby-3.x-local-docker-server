@@ -29,7 +29,7 @@ Enter inside your project folder `myproject` and clone this repo.
 
 ```
 $ cd myproject
-$ git clone https:// .
+$ git clone https://gitag2nurun.hostsag2.com.br/sapient_ag2/poc/kirby-3.x-local-server.git .
 ```
 
 ### 3) Remove the `.git` folder
